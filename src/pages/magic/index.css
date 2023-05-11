@@ -1,0 +1,19 @@
+h1 {
+  display: inline;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  vertical-align: 9px;
+}
+
+#i {
+  height: 78px;
+  width: 50px;
+}
+#d {
+  text-align: center;
+}
+h2 {
+  margin-left: 35px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20pt;
+}

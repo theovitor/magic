@@ -1,0 +1,23 @@
+.flex-card {
+  display: grid;
+
+  padding: 5px;
+  line-height: 15px;
+  margin: 25px;
+  width: 225px;
+  height: 450px;
+  border: 5px grey;
+  border-style: ridge;
+}
+
+body {
+  background-image: url('/src/Imagens/Fundo.jpeg');
+  background-size: contain;
+  background-attachment: fixed;
+}
+
+p {
+  margin: 5px;
+  padding: 2px;
+  font-family: 'Times New Roman', Times, serif;
+}
